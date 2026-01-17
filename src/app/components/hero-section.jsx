@@ -47,7 +47,7 @@ const HeroSection = () => (
         <div className="absolute -inset-4 bg-gradient-to-tr from-blue-400 to-emerald-400 rounded-[3rem] opacity-20 blur-2xl"></div>
         <div className="relative bg-white p-4 rounded-[2.5rem] shadow-2xl rotate-1">
           <img
-            src="https://images.unsplash.com/photo-1503945438517-f65904a52ce6?auto=format&fit=crop&q=80&w=800"
+            src="https://www.unicef.org/southsudan/sites/unicef.org.southsudan/files/styles/hero_extended/public/Oyere%20Primary%20School.webp?itok=bsI6TkAF"
             alt="School children collaborating"
             className="rounded-[2rem] w-full object-cover aspect-[4/3]"
           />
