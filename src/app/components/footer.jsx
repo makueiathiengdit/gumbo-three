@@ -11,7 +11,7 @@ const Footer = () => (
               <BookOpen className="text-white w-5 h-5" />
             </div>
             <span className="text-2xl font-bold tracking-tight">
-              Gumbo Three
+              Gumbo Three Primary School
             </span>
           </div>
           <p className="text-lg max-w-sm mb-8">

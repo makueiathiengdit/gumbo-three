@@ -5,7 +5,7 @@ const Events = () => {
     {
       day: "12",
       month: "FEB",
-      title: "Gumbo Three Sports Day",
+      title: "Sports Day",
       category: "Sports",
       time: "10:30 AM",
     },
@@ -14,14 +14,14 @@ const Events = () => {
       month: "JUN",
       title: "Year 1 Science Fair",
       category: "Academic",
-      time: "02:00 PM",
+      time: "09:00 AM",
     },
     {
       day: "24",
       month: "OCT",
       title: "PTA Meeting",
       category: "Community",
-      time: "03:15 PM",
+      time: "02:00 PM",
     },
   ];
 

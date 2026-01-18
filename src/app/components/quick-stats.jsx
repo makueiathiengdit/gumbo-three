@@ -19,7 +19,7 @@ const QuickStats = () => {
         <div>
           <p className="text-4xl font-bold text-white mb-1">25+</p>
           <p className="text-blue-100 text-sm uppercase font-bold tracking-widest">
-            After-School Clubs
+            School Clubs
           </p>
         </div>
         <div>
