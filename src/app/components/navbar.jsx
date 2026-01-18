@@ -13,7 +13,7 @@ const Navbar = () => {
               <BookOpen className="text-white w-6 h-6 -rotate-3" />
             </div>
             <span className="text-2xl font-bold tracking-tight text-slate-900">
-              Gumbo Three<span className="text-blue-600">Primary</span>
+              Gumbo Three<span className="ml-2 text-blue-600">Primary</span>
             </span>
           </div>
 

@@ -15,7 +15,7 @@ const HeroSection = () => (
             <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
             <span className="relative inline-flex rounded-full h-2 w-2 bg-blue-600"></span>
           </span>
-          Enrollment Open for Sept 2026
+          Admission Open for Jan 2026
         </div>
         <h1 className="text-5xl lg:text-7xl font-extrabold text-slate-900 leading-[1.1] mb-8">
           Where <span className="text-blue-600">Learning</span> is a Great{" "}
@@ -57,7 +57,7 @@ const HeroSection = () => (
               <Star fill="currentColor" />
             </div>
             <div>
-              <p className="font-bold text-slate-900">Ofsted Rated</p>
+              <p className="font-bold text-slate-900">Top Rated</p>
               <p className="text-sm text-slate-500">Outstanding School</p>
             </div>
           </div>

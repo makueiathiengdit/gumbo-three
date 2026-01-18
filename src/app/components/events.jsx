@@ -4,22 +4,22 @@ const Events = () => {
   const upcomingEvents = [
     {
       day: "12",
-      month: "SEP",
-      title: "Autumn Sports Day",
+      month: "FEB",
+      title: "Gumbo Three Sports Day",
       category: "Sports",
       time: "10:30 AM",
     },
     {
       day: "18",
-      month: "SEP",
+      month: "JUN",
       title: "Year 1 Science Fair",
       category: "Academic",
       time: "02:00 PM",
     },
     {
       day: "24",
-      month: "SEP",
-      title: "Charity Bake Sale",
+      month: "OCT",
+      title: "PTA Meeting",
       category: "Community",
       time: "03:15 PM",
     },
