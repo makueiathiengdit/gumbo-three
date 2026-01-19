@@ -30,7 +30,7 @@ const Navbar = () => {
             </a>
 
             <a
-              href="/admission"
+              href="/admissions"
               className="text-slate-600 hover:text-blue-600 font-medium transition-colors"
             >
               Admissions
@@ -74,7 +74,7 @@ const Navbar = () => {
           </a>
 
           <a
-            href="admission"
+            href="admissions"
             className="block text-slate-600 font-medium text-lg"
           >
             Admissions
